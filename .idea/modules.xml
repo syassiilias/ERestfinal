@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E-restaurant/E-restaurant.iml" filepath="$PROJECT_DIR$/E-restaurant/E-restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/path_provider/intermediates/aapt_friendly_merged_manifests/debug/aapt/aapt.iml" filepath="$PROJECT_DIR$/test_login/build/path_provider/intermediates/aapt_friendly_merged_manifests/debug/aapt/aapt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/google_sign_in/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/test_login/build/google_sign_in/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/google_maps_flutter/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/test_login/build/google_maps_flutter/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/flutter_local_notifications/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/test_login/build/flutter_local_notifications/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/app/generated/source/buildConfig/buildConfig3.iml" filepath="$PROJECT_DIR$/test_login/build/app/generated/source/buildConfig/buildConfig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/path_provider/generated/source/buildConfig/buildConfig4.iml" filepath="$PROJECT_DIR$/test_login/build/path_provider/generated/source/buildConfig/buildConfig4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/app/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" filepath="$PROJECT_DIR$/test_login/build/app/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/build/app/generated/not_namespaced_r_class_sources/debug/debug.iml" filepath="$PROJECT_DIR$/test_login/build/app/generated/not_namespaced_r_class_sources/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-restaurant/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/E-restaurant/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/test_login/android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/test_login/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_login/test_login.iml" filepath="$PROJECT_DIR$/test_login/test_login.iml" />
+    </modules>
+  </component>
+</project>

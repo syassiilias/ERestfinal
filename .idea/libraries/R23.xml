@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="R2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test_login/build/flutter_local_notifications/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

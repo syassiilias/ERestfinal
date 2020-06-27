@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="res3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test_login/build/flutter_local_notifications/intermediates/library_java_res/debug/res.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
